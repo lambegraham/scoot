@@ -39,7 +39,7 @@ Scoot is currently in development. Notarized macOS downloads and release notes w
 ## Requirements
 
 - macOS 14 or later
-- Accessibility and Input Monitoring permission, so Scoot can move the window you arm
+- Accessibility permission, so Scoot can read and move the window you arm
 
 ## Privacy
 
