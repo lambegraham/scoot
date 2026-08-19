@@ -30,6 +30,8 @@ Scoot is a small macOS menu bar utility for the moments when you need a call or 
 3. Move your cursor toward it—Scoot shifts the window aside.
 4. Toggle Scoot off when you are done.
 
+**Note: Scoot works best for windows you can keep in front. PIP videos, FaceTime, etc.**
+
 Scoot includes a configurable shortcut, an option to keep the window above the Dock, and an optional start-at-login setting.
 
 ## Downloads
